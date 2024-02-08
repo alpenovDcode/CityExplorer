@@ -55,6 +55,11 @@
 		3EDA804E2B752216000A40F9 /* CityExplorer */ = {
 			isa = PBXGroup;
 			children = (
+				3EDA80662B75225E000A40F9 /* Services */,
+				3EDA80652B75224A000A40F9 /* Extensions */,
+				3EDA80642B752243000A40F9 /* ViewModels */,
+				3EDA80632B752240000A40F9 /* View */,
+				3EDA80622B752237000A40F9 /* Model */,
 				3EDA804F2B752216000A40F9 /* CityExplorerApp.swift */,
 				3EDA80512B752216000A40F9 /* ContentView.swift */,
 				3EDA80532B752218000A40F9 /* Assets.xcassets */,
@@ -71,6 +76,41 @@
 				3EDA80562B752218000A40F9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3EDA80622B752237000A40F9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3EDA80632B752240000A40F9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3EDA80642B752243000A40F9 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		3EDA80652B75224A000A40F9 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		3EDA80662B75225E000A40F9 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
